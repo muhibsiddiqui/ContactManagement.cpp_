@@ -54,7 +54,7 @@ Contributions are welcome! If you find a bug or have suggestions for improvement
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([https://github.com/muhibsiddiqui/ContactManagement.cpp_/blob/main/LICENSE.md]).
 
 ---
 
