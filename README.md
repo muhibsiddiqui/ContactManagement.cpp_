@@ -38,7 +38,7 @@ Welcome to the Contact Management System (CMS) repository. This C++ program allo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/contact-management-system.git
+    git clone https://github.com/muhibsiddiqui/contact-management-system.git
     ```
 
 2. Compile and run the program using a C++ compiler.
@@ -50,8 +50,12 @@ Welcome to the Contact Management System (CMS) repository. This C++ program allo
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/your-username/contact-management-system/issues) or submit a pull request.
+Contributions are welcome! If you find a bug or have suggestions for improvements, please [open an issue](https://github.com/muhibsiddiqui/contact-management-system/issues) or submit a pull request.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+**Copyright © 2023 Muhammad Muhib Siddiqui. All Rights Reserved.**
